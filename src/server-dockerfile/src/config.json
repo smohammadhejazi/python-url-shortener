@@ -1,0 +1,5 @@
+{
+	"server_port": 8080,
+	"database_url": "localhost:27017",
+	"expiration_time": 60
+}
